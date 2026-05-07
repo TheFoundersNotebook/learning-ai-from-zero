@@ -1,0 +1,4 @@
+property_id,city,type,budget_gbp,status
+P001,London,Apartment,2500000,Reviewing
+P002,Dubai,Villa,4000000,Shortlisted
+P003,Riyadh,Office,6000000,Researching
