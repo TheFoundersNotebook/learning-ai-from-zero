@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Private working files
+/private/
+_private/
+scratch/
+tmp/
+temp/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local notes not meant for publishing
+local-notes/
